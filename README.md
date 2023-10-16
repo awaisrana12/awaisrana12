@@ -11,7 +11,7 @@
   </a>
   
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Gmail-cinnabar?style=for-the-badge&logo=google&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 - 👋 Hi, I’m @awaisrana12.
