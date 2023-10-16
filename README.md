@@ -33,15 +33,35 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+As a Full Stack Developer with experience in building high-performing, scalable, enterprise-grade applications, my responsibilities include designing, developing, and delivering fast and reliable high-quality applications for mission-critical systems. I have experience in managing both front-end and back-end development and provide expertise in the full software development lifecycle, from concept to design, implementation, and testing. I have a passion for working with a variety of technologies and have published more than 10 mobile and web applications to app stores.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+Here's a glimpse of my skills and experience:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awaisranaofficial) [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:awais.hameedrana1@gmail.com)
+- Implementing front-end applications using technologies like React, Redux, Next.js, styled-components, and React Native.
+- Developing server-side applications with technologies such as Node.js, Express, GraphQL, Apollo, and Docker.
+- Interacting with development and product teams to collaboratively design and implement solutions.
+- Writing well-designed and thoroughly tested code.
+- Creating and updating technical documentation to facilitate knowledge sharing.
+- Supporting continuous improvement by exploring alternative technologies and presenting them for architectural review.
+- Strong analytical skills and a deep understanding of algorithms and data structures.
+- Experience in building scalable, testable, and composable full-stack applications.
+- Proven working experience in TypeScript/JavaScript, React, and React Native.
+- Understanding of UX design best practices to create user-friendly interfaces.
+- Proficiency in using GraphQL and REST API micro-services for data retrieval.
+- Effective communication skills for teamwork and collaboration.
+- Adaptability to work in an agile environment.
+
+I am always ready and eager to take on new challenges as a full stack developer, leveraging my skills to create end-to-end solutions for complex projects.
+
+- :mailbox:How to reach me: For Call or WhatsApp on [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-blue?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923414336030&text=Hello!%20I%27m%20interested%20to%20discuss%20project%20with%20you.) , Linkdin: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awaisranaofficial) Gmail:  [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:awais.hameedrana1@gmail.com)
 </div>
-
+- 📫 How to reach me  and email awais.hameedrana1@gmail.com
+ 
+ Thanks
+  
+ Awais Hameed Rana
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -76,29 +96,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 
-- 👋 Hi, I’m @awaisrana12.
-  
- As a Front-End Developer with experience in building high-performing, scalable, enterprise-grade applications, my responsibilities include designing, developing, and delivering fast and reliable high-quality applications for mission-critical systems. I have experience in managing JavaScript application development and provide expertise in the full software development lifecycle, from concept to design and testing. And I love react native for mobile app development, have published more than 10 mobile apps to app stores. I have the ability to manage strong self-management, and the ability to deliver on agreed-upon tasks and manage expectations. Especially:
 
-- Implement front-end applications using technologies like React, Redux, Next.js, styled-components, Node.js, Express, GraphQL Apollo, Docker, React Native
-- Interact with the development and products team in the design and implementation process Write well-designed and tested code
-- Create and update technical documentation
-- Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review
-- Strong analytical skills and knowledge of algorithms and data structures
-- Experience in scalable, testable, and composable application design and implementation
-- Proven working experience in TypeScript / JavaScript and React, and React Native
-- Understanding of UX Design best practices
-- Experience in using GraphQL and Rest API micro-services
-- Communication skills for effective teamwork
-- ability to keep pace with an agile environment
-
-- I am always ready to start as a front-end developer.
-
-- 📫 How to reach me call or WhatsApp on +923414336030 and email awais.hameedrana1@gmail.com
- 
- Thanks
-  
- Awais Hameed Rana
 <!---
 awaisrana12/awaisrana12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
