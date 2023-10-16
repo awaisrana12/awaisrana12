@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=awaisrana12&style=flat-square&color=blue" alt=""/>
+</div>
+
 - 👋 Hi, I’m @awaisrana12.
   
  As a Front-End Developer with experience in building high-performing, scalable, enterprise-grade applications, my responsibilities include designing, developing, and delivering fast and reliable high-quality applications for mission-critical systems. I have experience in managing JavaScript application development and provide expertise in the full software development lifecycle, from concept to design and testing. And I love react native for mobile app development, have published more than 10 mobile apps to app stores. I have the ability to manage strong self-management, and the ability to deliver on agreed-upon tasks and manage expectations. Especially:
