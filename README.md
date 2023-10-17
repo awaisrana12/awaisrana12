@@ -95,6 +95,11 @@ I am always ready and eager to take on new challenges as a full stack developer,
 
 
 ---
+<p>
+
+  
+</p>
+<img src="https://wakatime.com/share/@awaisrana12/ca99e727-2293-4074-90e7-894791f26b6f.svg" width="1000" height="500"/>
 
 
 
